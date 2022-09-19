@@ -1,1 +1,2 @@
-teste de comando echo
+teste de comando echo.
+arquivo gerado por linha de código.
